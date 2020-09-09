@@ -1,0 +1,20 @@
+.commonHero-sec {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    box-shadow: inset 0 0 0 2000px rgba(28, 33, 51, 0.5);
+
+    .container {
+        height: 50vh;
+    }
+    .row {
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    h1 {
+        font-size: 50px;
+        color: #fff;
+    }
+}

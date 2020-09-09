@@ -1,0 +1,27 @@
+.specificClass {
+    h2 {
+        color: rgb(255, 209, 83);
+        margin-bottom: 20px;
+    }
+    .schedule {
+        box-shadow: 0px -1px 18px 1px rgba(191, 191, 191, 1);
+        padding: 10px;
+        margin: 10px;
+    }
+
+    .yellow-icon {
+        color: rgb(255, 209, 83);
+        margin-right: 20px;
+    }
+
+    .joinBtn {
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+
+        .btn-join {
+            padding: 10px 30px;
+            background-color: rgb(255, 209, 83);
+        }
+    }
+}

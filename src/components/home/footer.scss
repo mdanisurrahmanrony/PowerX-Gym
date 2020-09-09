@@ -1,0 +1,40 @@
+.footer {
+    background-color: black;
+    padding-top: 70px;
+
+    h2 {
+        color: white;
+
+        .yellow-text {
+            color: rgb(255, 209, 83);
+        }
+    }
+
+    h3 {
+        font-size: 20px;
+        color: white;
+        margin-bottom: 20px;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+
+        &:hover {
+            color: rgb(255, 209, 83);
+        }
+    }
+
+    i {
+        color: white;
+        margin-right: 10px;
+
+        &:hover {
+            color: rgb(255, 209, 83);
+        }
+    }
+
+    p {
+        color: white;
+    }
+}

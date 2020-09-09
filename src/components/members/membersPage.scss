@@ -1,0 +1,25 @@
+.form-row {
+    margin-top: 20px;
+
+    label {
+        font-weight: 500;
+    }
+
+    input {
+        border-radius: 0;
+        padding: 20px;
+    }
+}
+
+.personal {
+    background-color: rgb(255, 209, 83);
+    padding: 20px;
+    border-radius: 50%;
+    align-content: center;
+}
+.bg-gray {
+    background-color: rgb(204, 200, 190);
+    padding: 20px;
+    border-radius: 50%;
+    align-content: center;
+}

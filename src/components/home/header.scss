@@ -1,0 +1,21 @@
+nav {
+    .navbar-brand {
+        color: white !important;
+    }
+
+    .nav-link {
+        color: white;
+
+        &:hover {
+            color: rgb(255, 209, 83);
+        }
+    }
+
+    .active {
+        color: rgb(255, 209, 83);
+    }
+}
+
+.bg-color {
+    background-color: black;
+}

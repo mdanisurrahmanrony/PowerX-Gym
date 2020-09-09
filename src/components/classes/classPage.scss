@@ -1,0 +1,30 @@
+.cls-img {
+    height: 300px;
+    width: 100%;
+}
+
+.cls-title {
+    position: relative;
+    top: -20px;
+    background-color: rgb(255, 209, 83);
+    margin-right: 10%;
+    margin-left: 10%;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    display: flex;
+
+    a {
+        text-decoration: none;
+        text-align: center;
+        color: black;
+        display: flex;
+    }
+
+    h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+}

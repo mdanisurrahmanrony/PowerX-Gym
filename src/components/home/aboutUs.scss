@@ -1,0 +1,20 @@
+.about-us-home {
+    margin: 100px 0;
+    h1 {
+        font-size: 50px;
+        font-weight: bold;
+        color: rgb(212, 208, 208);
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+    h2 {
+        font-size: 30px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+
+        .text-yellow {
+            color: rgb(255, 209, 83);
+        }
+    }
+}

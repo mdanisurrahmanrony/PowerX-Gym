@@ -1,0 +1,30 @@
+.hero-sec {
+    background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(28, 33, 51, 0.5);
+
+    .container {
+        height: 80vh;
+    }
+    .row {
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    h1 {
+        font-size: 50px;
+        color: #fff;
+    }
+
+    p {
+        font-size: 16px;
+        color: #fff;
+        margin: 30px 0;
+    }
+
+    .join-btn {
+        background-color: rgb(255, 209, 83);
+        padding: 10px 40px;
+        font-size: 20px;
+    }
+}

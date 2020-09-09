@@ -1,0 +1,28 @@
+.gym {
+    margin: 100px 0;
+
+    .innerGym {
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+        align-items: center;
+        height: 400px;
+        color: white;
+        display: flex;
+        align-items: center;
+        padding: 0 10px;
+    }
+
+    h1 {
+        margin: 20px 0;
+        font-weight: bold;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    .yellow-text {
+        color: rgb(255, 209, 83);
+    }
+}
